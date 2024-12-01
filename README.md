@@ -6,7 +6,7 @@ DOMAIN:MACHINE LEARNING
 DURATION:NOVEMBER TO DECEMBER 2024
 MENTOR:
 
-verview: Boston Housing Price Prediction using Linear Regression
+Overview: Boston Housing Price Prediction using Linear Regression
 This project uses the Boston Housing dataset to predict median house prices based on various features of the houses and neighborhoods. The project employs Linear Regression for prediction and evaluation.
 
 Project Objectives:
