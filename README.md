@@ -1,10 +1,10 @@
 Boston Housing Price Prediction using Linear Regression
-Name: Hitesh Kumar Patel
-Company: CODTECH IT Solutions
-ID: CT08DS9771
-Domain: Machine Learning
-Duration: November to December 2024
-Mentor: [Add Mentor Name]
+Name: Hitesh Kumar Patel\
+Company: CODTECH IT Solutions\
+ID: CT08DS9771\
+Domain: Machine Learning\
+Duration: November to December 2024\
+Mentor: [Add Mentor Name]\
 
 Project Overview
 This project utilizes the Boston Housing dataset to predict median house prices based on various housing and neighborhood features. The project implements Linear Regression as the predictive model and evaluates its performance using several statistical metrics.
